@@ -6,7 +6,7 @@ permalink: /publication/chinashock
 excerpt: 'China's rise on the global stage was facilitated in large part by an artificial export surge, the effects of which was dubbed the 'China Shock.' Now, with the country facing strong economic headwinds, Chinese leaders are trying to craft another export surge to revive growth. The U.S. may be in for another round of job loss and political turmoil.'
 date: 2024-11-24
 venue: 'PROSPECT Journal of International Affairs'
-slidesurl:
+# slidesurl:
 paperurl: 'https://www.prospect-journal.org/articles'
 citation: 'Wu, Tony. (2024). &quot;A 'Second China Shock' What It Is and Implications for the United States.&quot; <i>PROSPECT Journal of International Affairs 1</i>. 1(1).'
 ---
