@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Policy Memorandum for POLI 130B"
+excerpt: "This report outlines how the U.S. and China can expand their academic exchange programs."
 collection: portfolio
 ---
 
-<iframe src="/files/" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="/files/POLI130Memo.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
