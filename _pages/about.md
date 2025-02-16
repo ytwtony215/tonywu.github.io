@@ -1,12 +1,11 @@
 ---
 permalink: /
-title: "About"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
 Hello!
 
 I am an undergraduate student pursuing a dual degree in Political Science and Economics. My interests include the use of trade policy to achieve international goals like combating the climate crisis, managing technological competition, and fostering economic development, as well as how shifting geopolitical dynamics shape markets and electoral outcomes. 
