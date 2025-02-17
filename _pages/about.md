@@ -8,7 +8,7 @@ redirect_from:
 ---
 Hello!
 
-I am an undergraduate student pursuing a dual degree in Political Science and Economics. My interests include the use of trade policy to achieve international goals like combating the climate crisis, managing technological competition, and fostering economic development, as well as how shifting geopolitical dynamics shape markets and electoral outcomes. 
+I am an undergraduate student pursuing a dual degree in Political Science and Economics. My interests include the use of trade policy to achieve international goals like combating the climate crisis, managing great power rivalry between the U.S. and China, and fostering economic development around the world, as well as how shifting geopolitical dynamics shape global markets and electoral outcomes. 
 
 Most recently, I was the _Intern, Trade Policy_ at the [Council on Foreign Relations](https://www.cfr.org/), supporting the work of Fellow for Trade Policy [Inu Manak](https://www.cfr.org/expert/inu-manak) and her Research Associate [Helena Kopans-Johnson](https://www.cfr.org/bio/helena-kopans-johnson). There, I was focused on the goal of delivering timely analysis and commentary on critical developments in geopolitics and trade policy.
 
