@@ -1,6 +1,6 @@
 ---
 title: "Research Project with PhD Candidate Eric Thai"
-excerpt: "This is a draft of a research project I worked on under the guidance of PhD Candidate Eric Thai. The project looks at . View the draft [here](https://ethai98.github.io/files/pdf/research/Thai-JMP.pdf)"
+excerpt: "This is a draft of a research project I worked on under the guidance of PhD Candidate Eric Thai. The project looks at tariff phaseout treatments and their electoral motivations. View the draft [here](https://ethai98.github.io/files/pdf/research/Thai-JMP.pdf)"
 collection: portfolio
 ---
 
