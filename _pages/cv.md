@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-View my CV [here](https://www.dropbox.com/scl/fi/byle2chlbrktbs1old4pz/TW-Resume.pdf?rlkey=i0nzozkyyvy93spv0hykv6dh6&st=cr1o5gco&dl=0)
+View my CV [here](https://www.dropbox.com/scl/fi/4sm00d8l8tzjl0cdbu9hx/TW-Resume-1.pdf?rlkey=rf7zathycfl5gqhlsm0q20ux0&st=vor6x0jw&dl=0)
