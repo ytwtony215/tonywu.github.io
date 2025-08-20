@@ -8,7 +8,7 @@ redirect_from:
 ---
 Hi!
 
-My name is Tony and I study Economics at Columbia University. I care deeply about global trade, frontier technologies, climate change, and U.S.-China relations. The throughline that connects these interests is my desire to shape policy and business in ways that move the needle on the thorniest of contemporary political and economic issues. 
+My name is Yutong, but some of my friends know me as Tony. Right now, I study Economics at Columbia University. I care deeply about global trade, international finance, frontier technologies, climate change, and U.S.-China relations. The throughline that connects these interests is my desire to shape policy and business in ways that move the needle on the thorniest of contemporary political and economic issues. 
 
 Most recently, I was the _Intern, Trade Policy_ at the [Council on Foreign Relations](https://www.cfr.org/), supporting the work of Fellow for Trade Policy [Inu Manak](https://www.cfr.org/expert/inu-manak) and her Research Associate [Helena Kopans-Johnson](https://www.cfr.org/bio/helena-kopans-johnson). There, I was focused on delivering timely analysis and commentary on critical developments in international trade policy during a time of unprecedented uncertainty.
 
