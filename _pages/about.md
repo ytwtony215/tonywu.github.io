@@ -6,14 +6,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi!
+Hey!
 
-My name is Yutong, but some of my friends know me as Tony. Right now, I study Economics at Columbia University. I care deeply about global trade, international finance, frontier technologies, climate change, and U.S.-China relations. The throughline that connects these interests is my desire to shape policy and business in ways that move the needle on the thorniest of contemporary political and economic issues. 
+I'm Yutong and I study Political Science at Columbia University. I like working on global trade, international finance, tech policy, climate change, and U.S.-China relations.  
 
-Most recently, I was the _Intern, Trade Policy_ at the [Council on Foreign Relations](https://www.cfr.org/), supporting the work of Fellow for Trade Policy [Inu Manak](https://www.cfr.org/expert/inu-manak) and her Research Associate [Helena Kopans-Johnson](https://www.cfr.org/bio/helena-kopans-johnson). There, I was focused on delivering timely analysis and commentary on critical developments in international trade policy during a time of unprecedented uncertainty.
+Right now, I'm the Trade Intern at [China Policy](https://policycn.com/) decoding elite Chinese policy thinking in the trade space for clients.
 
-Previously, I wrote articles for the [PROSPECT Journal of International Affairs ](https://www.prospect-journal.org/) on trade and international economics. I also worked as a _Research Apprentice_ to Ph.D candidate [Eric Thai](https://ethai98.github.io/), supporting his project studying the political determinants and electoral consequences of tariff phaseouts in Free Trade Agreements. Before that, I was a _Research Assistant_ to Professor [David Lake](https://polisci.ucsd.edu/people/faculty/faculty-directory/currently-active-faculty/lake-profile.html) and Professor [Wendy Wong](https://www.wendyhwong.com/) investigating regulatory structures for the Artificial Intelligence industry.
+Previously, I was the _Intern, Trade Policy_ at the [Council on Foreign Relations](https://www.cfr.org/) working on global trade issues like climate trade agreements and unilateral tariffs during a time of political upheaval.
 
-I am the first in my immediate family to attend university. Understanding the importance of education as a force for self-empowerment and positive social change, I am passionate about supporting other first-generation students on their academic journeys and helping open doors of opportunity for historically disadvantaged community.
+Before that, I worked as a _Research Apprentice_ to Ph.D candidate [Eric Thai](https://ethai98.github.io/), supporting his project studying the politics tariff phaseouts in Free Trade Agreements. Before that, I was a _Research Assistant_ to Professor [David Lake](https://polisci.ucsd.edu/people/faculty/faculty-directory/currently-active-faculty/lake-profile.html) and Professor [Wendy Wong](https://www.wendyhwong.com/) investigating governance structures for the Artificial Intelligence industry.
 
-Outside of my studies, I spend my time listening to R&B music, lifting weights, playing basketball, and reading. One of my favorite recent reads was _[Chip War](https://www.christophermiller.net/books)_ by Chris Miller. If you have any book recommendations, send them my way!
+I am the first in my immediate family to attend university. That's why I'm passionate about supporting other first-generation students and encouraging them to pursue policy/business careers.
+
+Outside of work, I spend my most of my time listening to R&B music, lifting weights, playing basketball, and reading. One of my favorite recent reads was _[Chip War](https://www.christophermiller.net/books)_ by Chris Miller. If you have any book recommendations, send them my way; I'm always looking for new reads!
