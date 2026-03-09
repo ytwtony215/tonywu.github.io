@@ -10,7 +10,7 @@ Hey!
 
 I'm Yutong and I study Political Science at Columbia University. I like working on global trade, international finance, tech policy, climate change, and U.S.-China relations.  
 
-Right now, I'm the Trade Intern at [China Policy](https://policycn.com/) decoding elite Chinese policy thinking in the trade space for clients.
+Right now, I'm the Trade Intern at [China Policy](https://policycn.com/) decoding elite trade policy thinking in Beijing for clients.
 
 Previously, I was the _Intern, Trade Policy_ at the [Council on Foreign Relations](https://www.cfr.org/) working on global trade issues like climate trade agreements and unilateral tariffs during a time of political upheaval.
 
